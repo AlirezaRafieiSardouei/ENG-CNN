@@ -3,4 +3,4 @@
  
  ## 📷 Super-Resolution Comparison
 Check out the before/after comparison:  
-[<img src="figures/lemons.png" width="390px"/>](https://imgsli.com/MzU3MzM1)
+[<img src="figures/lemons.png" width="780px"/>](https://imgsli.com/MzU3MzM1)
